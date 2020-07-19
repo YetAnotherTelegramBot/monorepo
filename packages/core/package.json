@@ -1,0 +1,26 @@
+{
+  "name": "@yatb/core",
+  "version": "0.0.1",
+  "description": "Core of Yet Another Telegram Bot",
+  "keywords": [
+    "telegram",
+    "bot"
+  ],
+  "author": "Ricardo Cabral <ricardo.mejia@openlane.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
